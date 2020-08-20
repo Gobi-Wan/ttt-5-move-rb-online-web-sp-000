@@ -14,7 +14,7 @@ end
 
 
 
-def move()
+def move(board, position, char)
   
 end
 
